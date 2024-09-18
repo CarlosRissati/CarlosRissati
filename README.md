@@ -7,6 +7,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosRissati&show_icons=true&theme=synthwave)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRissati&layout=donut&size_weight=0.5&count_weight=0.5&hide=GAP&theme=synthwave) -->
+---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosRissati&show_icons=true&theme=synthwave" />
@@ -15,7 +16,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRissati&layout=donut&size_weight=0.5&count_weight=0.5&hide=GAP&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@CarlosRissati&theme=synthwave" />
+  <div align=center style="margin:6px">
+    <img 
+    height=200
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=@CarlosRissati&theme=synthwave" />
+  </div>
 </a>
 
 <!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CarlosRissati&theme=synthwave) -->
