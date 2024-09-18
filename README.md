@@ -4,8 +4,18 @@
   - But I'm trying to improve my Game Developer skills in engines like Godot and Unity.
   - For now, I'm just studying to be the better one in my area, but I want to do something big someday.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosRissati&show_icons=true&theme=synthwave)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosRissati&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRissati&layout=donut&size_weight=0.5&count_weight=0.5&hide=GAP&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRissati&layout=donut&size_weight=0.5&count_weight=0.5&hide=GAP&theme=synthwave) -->
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CarlosRissati&theme=synthwave)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosRissati&show_icons=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRissati&layout=donut&size_weight=0.5&count_weight=0.5&hide=GAP&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@CarlosRissati&theme=synthwave" />
+</a>
+
+<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@CarlosRissati&theme=synthwave) -->
