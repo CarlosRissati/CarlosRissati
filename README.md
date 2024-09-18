@@ -11,8 +11,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <div align=center>
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosRissati&show_icons=true&theme=synthwave" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRissati&layout=donut&size_weight=0.5&count_weight=0.5&hide=GAP&theme=synthwave" />
+    <img height=200 align="center" style="margin:6px" src="https://github-readme-stats.vercel.app/api?username=CarlosRissati&show_icons=true&theme=synthwave" />
+    <img height=200 align="center" style="margin:6px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRissati&layout=donut&size_weight=0.5&count_weight=0.5&hide=GAP&theme=synthwave" />
   </div>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
